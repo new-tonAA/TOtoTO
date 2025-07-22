@@ -1,0 +1,39 @@
+# requirements.txt
+
+# Core dependencies
+numpy
+faiss-cpu
+Werkzeug
+flask
+flask_migrate
+Pillow
+torchvision
+torch
+certifi
+
+# Flask extensions
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Flask-CORS
+Flask-Migrate
+Flask-Caching
+
+# Database
+SQLAlchemy
+mysql-connector-python  # 或 PyMySQL
+alembic
+
+# Geolocation
+geopy
+
+# Caching
+redis
+
+# Other utilities
+requests
+Jinja2
+networkx
+sympy
+six
+click
+pyyaml
