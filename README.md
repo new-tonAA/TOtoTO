@@ -65,21 +65,22 @@ Meanwhile, we support binding the account with your own email.
 # 🧩 Project Structure and some important Details
 > TOtoTO adopts a **frontend-backend separated architecture**, built with Vue 3 + Flask, and uses **MySQL** and **GitHub repository** for data and asset storage.
 > 
-> - The frontend is built with **Vue 3 + Vite**, responsible for user interaction and dynamic UI rendering
-> - The backend uses **Flask** to provide RESTful APIs and handle core logic
-> - **MySQL** is used as the main database to store user info, image metadata, history records, etc.
-> - User Uploaded Images are stored through the **GitHub repository** for quick access and management
-> - The frontend and backend communicate via **HTTP API** with CORS enabled
+>  The frontend is built with **Vue 3 + Vite**, responsible for user interaction and dynamic UI rendering  
+>  The backend uses **Flask** to provide RESTful APIs and handle core logic  
+>  **MySQL** is used as the main database to store user info, image metadata, history records, etc.  
+>  User Uploaded Images are stored through the **GitHub repository** for quick access and management  
+>  The frontend and backend communicate via **HTTP API** with CORS enabled  
 
 
 ## Backend————Img_To_Img Flask
-> - the github code does NOT Contain .venv.
-> - the code's github token and some LLM API's token will NOT be provided in the code.
-> - the database are not provided, please connect your own developer's MySQL database.
+>  the github code does NOT Contain .venv.  
+>  the code's github token and some LLM API's token will NOT be provided in the code.  
+>  the database are not provided, please connect your own developer's MySQL database.  
 
 
 
 ## Frontend————Img_To_Img Vue3
+>  the **node_modules** is not included.  
 
 
 ## MySQL Database————db_pic_faiss
