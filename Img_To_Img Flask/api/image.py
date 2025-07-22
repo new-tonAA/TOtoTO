@@ -16,7 +16,7 @@ from server.chatAi import ChatAI
 
 
 # 初始化 ChatAI 实例（Moonshot）
-chat_ai = ChatAI(api_key="sk-75pLv0r1m0IScRESVhCzA9Lh1K65Io3KvVBxkC8o5FVpVRkI")
+chat_ai = ChatAI(api_key=#your key)
 
 image_api=Blueprint('image',__name__)
 
