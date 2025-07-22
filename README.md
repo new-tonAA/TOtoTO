@@ -16,9 +16,6 @@
 
 ✨ This project blends computer vision, location services, and natural language generation into one user-friendly web experience.
 
----
-
-
 
 ---
 
