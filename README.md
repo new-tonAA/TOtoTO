@@ -7,6 +7,7 @@ A Web project based on Faiss that can allow you to find similar images, also mai
 ## Main Function Introduction
 
 > Add your screenshots here.
+> https://github.com/new-tonAA/TOtoTO/blob/main/ScreenShots/c5344711f54ba3dd19f9b9f6c580d6c.jpg
 
 <p align="center">
   <img src="./screenshots/homepage.png" alt="Homepage" width="600"/>
