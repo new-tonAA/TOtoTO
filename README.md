@@ -20,6 +20,13 @@ A Web project based on Faiss that can allow you to find similar images, also mai
 In this page, when user uploads a picture and our system finishes every management, this Web page will show you the SIMILAR PICTURES, the POSITION of the user's picture, and AI TOUR GUIDE's intruduction  
 
 <p align="center">
+  <img src="./ScreenShots/a7bc1d9569158d171f82c4015c27473.jpg" alt="Homepage" />
+  <br/>
+  <em>Figure 2: Main Page view————Get History Record</em>
+</p>
+In this page, when user uploads a picture and our system finishes every management, this Web page will show you the SIMILAR PICTURES, the POSITION of the user's picture, and AI TOUR GUIDE's intruduction  
+
+<p align="center">
   <img src="./screenshots/homepage.png" alt="Homepage" width="600"/>
   <br/>
   <em>Figure 1: Homepage view</em>
