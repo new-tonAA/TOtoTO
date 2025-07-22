@@ -36,6 +36,15 @@ This is the Main Page, you can view the University's Pictures or send text. If y
   <em>Figure 3: Main Page</em>
 </p>
 
+## Login
+Some main functions need users login to use. If you do not have any accounts, you can also create an account.  
+Meanwhile, we support binding the account with your own email.
+<p align="center">
+  <img src="./ScreenShots/52ec248bdefef2e50ea671709e87461.jpg" alt="Homepage" />
+  <br/>
+  <em>Figure 3: Main Page</em>
+</p>
+
 ---
 
 ## 🧩 Project Structure
