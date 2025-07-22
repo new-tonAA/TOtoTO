@@ -25,7 +25,10 @@ In the main page, if you click a HISTORY RECORD, the Main Page will show you the
   <br/>
   <em>Figure 2: Main Page view————Get History Record</em>
 </p>
+ If you click the SAME History Record again, it will go back to the Main Page.
 
+
+ ## Main Page
 
 <p align="center">
   <img src="./screenshots/homepage.png" alt="Homepage" width="600"/>
