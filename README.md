@@ -29,22 +29,11 @@ In the main page, if you click a HISTORY RECORD, the Main Page will show you the
 
 
  ## Main Page
-In this page, when user uploads a picture and our system finishes every management, this Web page will show you the SIMILAR PICTURES, the POSITION of the user's picture, and AI TOUR GUIDE's intruduction.  
+This is the Main Page, you can view the University's Pictures or send text. If you upload a picture, the view will turn to Main Function Page's view.  
 <p align="center">
-  <img src="./ScreenShots/c5344711f54ba3dd19f9b9f6c580d6c.jpg" alt="Homepage" />
+  <img src="./ScreenShots/52ec248bdefef2e50ea671709e87461.jpg" alt="Homepage" />
   <br/>
   <em>Figure 1: Main Page view</em>
-</p>
-<p align="center">
-  <img src="./screenshots/homepage.png" alt="Homepage" width="600"/>
-  <br/>
-  <em>Figure 1: Homepage view</em>
-</p>
-
-<p align="center">
-  <img src="./screenshots/feature-demo.gif" alt="Feature demo" width="600"/>
-  <br/>
-  <em>Figure 2: Feature demonstration</em>
 </p>
 
 ---
