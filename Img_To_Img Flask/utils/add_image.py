@@ -43,7 +43,7 @@ def get_url(image,local):
     token =   # 自行去github生成token
     curr_time = datetime.datetime.now()
     path = curr_time.strftime("%Y%m%d%H%M%S") + img_ext
-    url = #f"https://api.github.com/repos/new-tonAA/Images/contents/{local}/" + path # 用户名、库名、路径
+    url = # 用户名、库名、路径
     headers = {
         "Authorization": "token " + token,
     }
@@ -61,7 +61,7 @@ def get_url(image,local):
         # Check if request was successful
         if response.status_code == 201:
             print("File uploaded successfully!")
-            img = #f"https://raw.githubusercontent.com/new-tonAA/Images/refs/heads/main/{local}/{path}"
+            img = # fill your own
             print(img)
             return img
         else:
