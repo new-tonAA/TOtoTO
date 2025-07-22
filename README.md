@@ -7,7 +7,7 @@ A Web project based on Faiss that can allow you to find similar images, also mai
 # Main Function Introduction
 
 > Main Function Page  
-> Main Page  
+> Home Page  
 > Login Page  
 
 
@@ -28,19 +28,19 @@ In the main page, if you click a HISTORY RECORD, the Main Page will show you the
  If you click the SAME History Record again, it will go back to the Main Page.
 
 
- ## Main Page
-This is the Main Page, you can view the University's Pictures or send text. If you upload a picture, the view will turn to Main Function Page's view.  
+ ## Home Page
+Users can view the University's Pictures or send text. If you upload a picture, the view will turn to Main Function Page's view.  
 <p align="center">
   <img src="./ScreenShots/52ec248bdefef2e50ea671709e87461.jpg" alt="Homepage" />
   <br/>
-  <em>Figure 3: Main Page</em>
+  <em>Figure 3: Home Page</em>
 </p>
 
 ## Login
 Some main functions need users login to use. If you do not have any accounts, you can also create an account.  
 Meanwhile, we support binding the account with your own email.
 <p align="center">
-  <img src="./ScreenShots/52ec248bdefef2e50ea671709e87461.jpg" alt="Homepage" />
+  <img src="./ScreenShots/ec4095a61f7397d4fd93278ba81c9e5.jpg" alt="Homepage" />
   <br/>
   <em>Figure 3: Main Page</em>
 </p>
