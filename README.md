@@ -11,7 +11,7 @@ A Web project based on Faiss that can allow you to find similar images, also mai
 > Login Page  
 
 <p align="center">
-  <img src="./ScreenShots/c5344711f54ba3dd19f9b9f6c580d6c.jpg" alt="Homepage" width="600"/>
+  <img src="./ScreenShots/c5344711f54ba3dd19f9b9f6c580d6c.jpg" alt="Homepage" />
   <br/>
   <em>Figure 1: Main Page view</em>
 </p>
