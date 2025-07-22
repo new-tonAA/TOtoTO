@@ -76,11 +76,12 @@ Meanwhile, we support binding the account with your own email.
 ## Backend————Img_To_Img Flask
 >  - the github code does NOT Contain .venv.  
 >  - the code's github token and some LLM API's token will NOT be provided in the code.  
->  - the database are not provided, please connect your own developer's MySQL database.  
+>  - the database are not provided, please connect your own developer's MySQL database.
+>  - some place in the code need to fill an email account, you just need to choose an email account.
 
 
 ## Frontend————Img_To_Img Vue3
->  - the **node_modules** is not included.  
+>  - the **node_modules** is not included in the github repository, you need to get your own.  
 
 
 ## MySQL Database————db_pic_faiss
