@@ -71,3 +71,12 @@ Meanwhile, we support binding the account with your own email.
 > - User Uploaded Images are stored through the **GitHub repository** for quick access and management
 > - The frontend and backend communicate via **HTTP API** with CORS enabled
 
+
+## Backend————Img_To_Img Flask
+
+
+## Frontend————Img_To_Img Vue3
+
+
+## MySQL Database————db_pic_faiss
+
