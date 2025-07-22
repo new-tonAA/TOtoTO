@@ -4,7 +4,7 @@ A Web project based on Faiss that can allow you to find similar images, also mai
 
 ---
 
-## 📸 Screenshots
+## Main Function Introduction
 
 > Add your screenshots here.
 
