@@ -93,5 +93,11 @@ Meanwhile, we support binding the account with your own email.
 
 # How To RUN the project
 >  - backend: run **app.py**.  
->  - frontend: **npm install**, then **npm run dev**.  
->  - open the database.  
+>  - frontend: **"npm install"**, then **"npm run dev"**.  
+>  - open the database.
+
+
+# How to SEE the project
+>  - use Google or Edge.  
+>  - view **http://localhost:5173/** (The frontend webpage).  
+
