@@ -9,10 +9,10 @@ TOtoTO is a web-based system designed for intelligent image search and location-
 > TOtoTO 是一个基于图像搜索与地图定位的智能导览系统，服务对象为中国华南理工大学大学城校区。通过上传校园照片，系统能智能识别地点，展示相似场景，并提供 AI 导游解说、历史记录查看等功能，打造沉浸式校园参观体验。
 
 > TOtoTO is an intelligent tour guide platform focused on SCUT’s University Town Campus. By uploading a campus photo, users can:
-> - 🔍 Find visually similar scenes
-> - 🗺️ Locate the photo’s real-world position
-> - 🤖 Get AI-generated historical and cultural introductions
-> - 🕓 View their search history and revisit details
+>  🔍 Find visually similar scenes  
+>  🗺️ Locate the photo’s real-world position  
+>  🤖 Get AI-generated historical and cultural introductions  
+>  🕓 View their search history and revisit details  
 
 ✨ This project blends computer vision, location services, and natural language generation into one user-friendly web experience.
 
@@ -65,23 +65,26 @@ Meanwhile, we support binding the account with your own email.
 # 🧩 Project Structure and some important Details
 > TOtoTO adopts a **frontend-backend separated architecture**, built with Vue 3 + Flask, and uses **MySQL** and **GitHub repository** for data and asset storage.
 > 
->  The frontend is built with **Vue 3 + Vite**, responsible for user interaction and dynamic UI rendering  
->  The backend uses **Flask** to provide RESTful APIs and handle core logic  
->  **MySQL** is used as the main database to store user info, image metadata, history records, etc.  
->  User Uploaded Images are stored through the **GitHub repository** for quick access and management  
->  The frontend and backend communicate via **HTTP API** with CORS enabled  
+>  - The frontend is built with **Vue 3 + Vite**, responsible for user interaction and dynamic UI rendering  
+>  - The backend uses **Flask** to provide RESTful APIs and handle core logic  
+>  - **MySQL** is used as the main database to store user info, image metadata, history records, etc.  
+>  - User Uploaded Images are stored through the **GitHub repository** for quick access and management  
+>  - The frontend and backend communicate via **HTTP API** with CORS enabled  
 
 
 ## Backend————Img_To_Img Flask
->  the github code does NOT Contain .venv.  
->  the code's github token and some LLM API's token will NOT be provided in the code.  
->  the database are not provided, please connect your own developer's MySQL database.  
-
+>  - the github code does NOT Contain .venv.  
+>  - the code's github token and some LLM API's token will NOT be provided in the code.  
+>  - the database are not provided, please connect your own developer's MySQL database.  
 
 
 ## Frontend————Img_To_Img Vue3
->  the **node_modules** is not included.  
+>  - the **node_modules** is not included.  
 
 
 ## MySQL Database————db_pic_faiss
-
+<p align="center">
+  <img src="./ScreenShots/3aeb1b38364088b7fbcb0fec1639c93.jpg" alt="Homepage" />
+  <br/>
+  <em>Figure 5: MySQL Database Description</em>
+</p>
