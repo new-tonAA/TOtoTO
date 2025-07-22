@@ -9,6 +9,7 @@ TOtoTO is a web-based system designed for intelligent image search and location-
 > TOtoTO 是一个基于图像搜索与地图定位的智能导览系统，服务对象为中国华南理工大学大学城校区。通过上传校园照片，系统能智能识别地点，展示相似场景，并提供 AI 导游解说、历史记录查看等功能，打造沉浸式校园参观体验。
 
 > TOtoTO is an intelligent tour guide platform focused on SCUT’s University Town Campus. By uploading a campus photo, users can:
+> 
 >  🔍 Find visually similar scenes  
 >  🗺️ Locate the photo’s real-world position  
 >  🤖 Get AI-generated historical and cultural introductions  
