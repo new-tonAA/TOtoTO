@@ -88,3 +88,10 @@ Meanwhile, we support binding the account with your own email.
   <br/>
   <em>Figure 5: MySQL Database Description</em>
 </p>
+
+---
+
+# How To RUN the project
+>  - backend: run **app.py**.  
+>  - frontend: **npm install**, then **npm run dev**.  
+>  - open the database.  
